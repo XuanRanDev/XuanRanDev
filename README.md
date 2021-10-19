@@ -1,7 +1,7 @@
 - 👋 Hi, I’m XuanRan
 - Welcome to my personal home page！
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=XuanRanDev&show_icons=true&include_all_commits=true&theme=synthwave&count_private=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=XuanRanDev&show_icons=true&include_all_commits=true&theme=defaulte&count_private=false" />
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XuanRanDev&langs_count=8)
